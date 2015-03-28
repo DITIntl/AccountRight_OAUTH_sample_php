@@ -17,7 +17,7 @@ To Use
 
 Please note
 ================================
-Note: this sample was built using v1 of the API - this is now deprecated
+Note: this sample was built using v1 of the API - this is now deprecated 
 You will need to modify this to use v2 of the API
 
 [Visit our project page](http://myob-technology.github.com/AccountRight_OAUTH_sample_php/ "Oauth PHP App")
